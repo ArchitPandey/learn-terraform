@@ -1,1 +1,3 @@
 .terraform
+/*.ppk
+/ec2-public-key
