@@ -1,3 +1,6 @@
 /aws-instance
 /docker-container
+/learn-terraform-hashicups-provider
+/terraform-provider-hashicups
+/tf-resource-with-hashicups
 /*_accessKeys.csv
